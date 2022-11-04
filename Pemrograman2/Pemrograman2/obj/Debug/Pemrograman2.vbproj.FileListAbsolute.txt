@@ -1,0 +1,16 @@
+C:\Users\INBOOK\Documents\Kuliah\PemWeb\Pemrograman2\Pemrograman2\bin\Debug\Pemrograman2.exe
+C:\Users\INBOOK\Documents\Kuliah\PemWeb\Pemrograman2\Pemrograman2\bin\Debug\Pemrograman2.pdb
+C:\Users\INBOOK\Documents\Kuliah\PemWeb\Pemrograman2\Pemrograman2\bin\Debug\Pemrograman2.xml
+C:\Users\INBOOK\Documents\Kuliah\PemWeb\Pemrograman2\Pemrograman2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\INBOOK\Documents\Kuliah\PemWeb\Pemrograman2\Pemrograman2\obj\Debug\Pemrograman2.Form1.resources
+C:\Users\INBOOK\Documents\Kuliah\PemWeb\Pemrograman2\Pemrograman2\obj\Debug\Pemrograman2.Resources.resources
+C:\Users\INBOOK\Documents\Kuliah\PemWeb\Pemrograman2\Pemrograman2\obj\Debug\Pemrograman2.vbproj.GenerateResource.Cache
+C:\Users\INBOOK\Documents\Kuliah\PemWeb\Pemrograman2\Pemrograman2\obj\Debug\Pemrograman2.exe
+C:\Users\INBOOK\Documents\Kuliah\PemWeb\Pemrograman2\Pemrograman2\obj\Debug\Pemrograman2.xml
+C:\Users\INBOOK\Documents\Kuliah\PemWeb\Pemrograman2\Pemrograman2\obj\Debug\Pemrograman2.pdb
+C:\Users\INBOOK\Documents\Kuliah\PemWeb\Pemrograman2\Pemrograman2\obj\Debug\Pemrograman2.Kalkulator.resources
+C:\Users\INBOOK\Documents\Kuliah\PemWeb\Pemrograman2\Pemrograman2\obj\Debug\Pemrograman2.Nilai.resources
+C:\Users\INBOOK\Documents\Kuliah\PemWeb\Pemrograman2\Pemrograman2\obj\Debug\Pemrograman2.Belanja.resources
+C:\Users\INBOOK\Documents\Kuliah\PemWeb\Pemrograman2\Pemrograman2\obj\Debug\Pemrograman2.Order_Makanan.resources
+C:\Users\INBOOK\Documents\Kuliah\PemWeb\Pemrograman2\Pemrograman2\obj\Debug\Pemrograman2.Latihan1.resources
+C:\Users\INBOOK\Documents\Kuliah\PemWeb\Pemrograman2\Pemrograman2\obj\Debug\Pemrograman2.Latihan2.resources
